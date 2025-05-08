@@ -15,7 +15,7 @@ export default class Tutorial extends BaseScene {
         var tileset = map.addTilesetImage('Tilemap2', 'tiles')
         super.create(map, tileset, 'Level1')
 
-        const tienda = new StoreObject(this, 500, 500)
+        //const tienda = new StoreObject(this, 500, 500)
 
     }
 
