@@ -40,12 +40,11 @@
 
 ### 1.3 Arte: 
 #### Diseño personajes
-⦁   Daniel Lafuente Bazo
 
 ⦁   Ignacio Lumbano Vivar
 
 #### Diseño Musical
-⦁   Óscar Fabián Pineda Germán
+⦁   Ignacio Lumbano Vivar
 
 ⦁   James Morocho Calero
 
