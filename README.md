@@ -38,12 +38,12 @@
 
 ⦁   James Morocho Calero.
 
-### 1.3 Arte: 
-#### Diseño personajes
+### 1.3 Arte y diseño del videojuego: 
+#### Diseño personajes 
 
 ⦁   Ignacio Lumbano Vivar
 
-#### Diseño Musical
+#### Musica
 ⦁   Ignacio Lumbano Vivar
 
 ⦁   James Morocho Calero
