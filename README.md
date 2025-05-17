@@ -39,8 +39,6 @@
 ⦁   James Morocho Calero.
 
 ### 1.3 Arte y diseño del videojuego: 
-#### Diseño personajes 
-
 ⦁   Ignacio Lumbano Vivar
 
 #### Musica
